@@ -1,12 +1,12 @@
 {
     "amazonQ.suppressPrompts": {
-        "createCredentialsProfile": true,
-        "codeWhispererNewWelcomeMessage": true,
-        "codeWhispererConnectionExpired": true,
-        "amazonQWelcomePage": true,
-        "amazonQSessionConfigurationMessage": true,
-        "minIdeVersion": true,
-        "ssoCacheError": true
+        "createCredentialsProfile": false,
+        "codeWhispererNewWelcomeMessage": false,
+        "codeWhispererConnectionExpired": false,
+        "amazonQWelcomePage": false,
+        "amazonQSessionConfigurationMessage": false,
+        "minIdeVersion": false,
+        "ssoCacheError": false
     },
     "amazonQ.ignoredSecurityIssues": [
         ""
